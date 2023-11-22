@@ -1,4 +1,4 @@
-# Group-Sorter
+# Group Sorter
 
 *To run, drag the .html file into a web browser*
 
